@@ -1,1 +1,8 @@
 graph.instagram.com
+firebasedynamiclinks.googleapis.com
+sf.dl.delivery.mp.microsoft.com
+im.rediff.com
+07c225f3.online
+ip.me
+doi.org
+kavach.mail.gov.in
