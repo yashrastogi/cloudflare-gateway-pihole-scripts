@@ -1,4 +1,5 @@
 graph.instagram.com
+graph.facebook.com
 sf.dl.delivery.mp.microsoft.com
 im.rediff.com
 07c225f3.online
