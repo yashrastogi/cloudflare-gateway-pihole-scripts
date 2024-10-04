@@ -10,3 +10,4 @@ firebasedynamiclinks.googleapis.com
 userlocation.googleapis.com
 geller-pa.googleapis.com
 smoot.apple.com
+brevo.com
