@@ -60,7 +60,6 @@ jobs:
           CLOUDFLARE_LIST_ITEM_LIMIT: ${{ secrets.CLOUDFLARE_LIST_ITEM_LIMIT }}
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
           BLOCK_BASED_ON_SNI: ${{ vars.BLOCK_BASED_ON_SNI }}
-          DRY_RUN: 1
 
       - name: Send ping request
         if: env.PING_URL != ''
