@@ -11,3 +11,4 @@ userlocation.googleapis.com
 geller-pa.googleapis.com
 smoot.apple.com
 brevo.com
+googleadservices.com
